@@ -8,7 +8,7 @@ Knapsack solves the knapsack problem using genetic algorithm.
 
 ## Usage
 
-1. clone the reposirtory
+1. clone the repository
 2. insert items in config/items.txt in the form of:
 ```
 6 2
