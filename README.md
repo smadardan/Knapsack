@@ -20,6 +20,7 @@ Knapsack solves the knapsack problem using genetic algorithm.
 3 4
 ```
 where the **left** int is the **value** of each item and the **right** int is the **weight**
+
 3. open the console. change directory to this repository
 4. write:
 ```
